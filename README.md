@@ -1,3 +1,5 @@
+#Information
+
 ## Education
 
 `Bachelor of Information Technology (Games Technology & Computer Science) | Murdoch University`
