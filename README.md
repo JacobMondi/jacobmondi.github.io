@@ -49,7 +49,9 @@ Visit: [MondeeGames on itch.io](https://mondeegames.itch.io/)
 
 ### Mixed Reality Math Escape Room
 
-The goal of this project was to create a **Serious Game**, which was achieved by creating a **Mixed Reality escape room** where players solve math puzzles to advance and escape the room.
+The goal of this project was to create a **Serious Game**, which was achieved by creating a **Mixed Reality escape room** where players solve math puzzles to advance and escape the room. Also Compatiable on Windows PC
+
+[View Demonstration](https://youtu.be/xYJjRQUMFg4)
 
 - **Key Features:**
   - Made with **Unity**
