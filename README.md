@@ -11,6 +11,8 @@ Murdoch University
 
 This project aimed to build a **real-time physics engine** that simulates realistic object interactions and NPC behaviors. The goal was to create an interactive and immersive simulation environment for educational or gaming purposes.
 
+[View Demonstration](https://youtu.be/vwD3f5bb_24)
+
 - **Key Features:**
   - Developed in **C++**
   - Realistic physics simulations
