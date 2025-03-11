@@ -24,6 +24,8 @@ This project aimed to build a **real-time physics engine** that simulates realis
 
 This project was designed to bring a more interactive and immersive experience to mathematics education through **Mixed Reality (MR)**. It aimed to help students visualize and engage with math concepts in a three-dimensional environment, enhancing understanding and engagement.
 
+[View Demonstration](https://youtu.be/WbLa0Y6N3P8)
+
 - **Key Features:**
   - Created in **Unity**
   - Custom node-based editor for creating math "modules"
