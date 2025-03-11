@@ -1,33 +1,66 @@
-# Projects
+## Education
+
+**Bachelor of Information Technology (Games Technology & Computer Science)**  
+Murdoch University
+
+---
+
+## Projects
 
 ### Simulation Engine
-A **C++** graphics engine made for physics and NPC interaction simulations. Made in collaboration with 3 other people for a university assignment
 
-- Realistic Physics Simulations
-- Realistic AI Behaviour Using Affordance and FSM's
-- Fully Interactable Engine through a Graphical Editor
-- Scripting through Lua
+This project aimed to build a **real-time physics engine** that simulates realistic object interactions and NPC behaviors. The goal was to create an interactive and immersive simulation environment for educational or gaming purposes.
+
+- **Key Features:**
+  - Developed in **C++**
+  - Realistic physics simulations
+  - Realistic AI behavior using Affordance and FCMs
+  - Fully interactive engine via a graphical editor, allowing users to interact with objects in a 3D environment
+  - Scripting with **Lua**
 
 ### Mixed Reality Mathematics Education Tool
-A Tool for Making and interacting with Mathematics through the medium of Mixed Reality. Made in Collaboration with 5 Other People.
 
-- Made in **Unity**
-- A Custom Node Based Editor for creating new math "modules".
-	 - Modules are the math concepts represented in Mixed Reality
-- An Application for Meta Quest 2 and Meta Quest 3 where the modules can be used
-- Full Serialization of Modules
+This project was designed to bring a more interactive and immersive experience to mathematics education through **Mixed Reality (MR)**. It aimed to help students visualize and engage with math concepts in a three-dimensional environment, enhancing understanding and engagement.
 
-### SimplyLog (A C++ Logger)
-A Library for logging to the console in **C++**.
+- **Key Features:**
+  - Created in **Unity**
+  - Custom node-based editor for creating math "modules"
+  - Available for **Meta Quest 2** and **Meta Quest 3**
+  - Full serialization of math modules
 
-- Includes Multiple Log Types (Info, Warning, Error, Critical)
-- Options for including date, time, colour and title to the log
+### SimplyLog (C++ Logger)
 
+SimplyLog is a **lightweight logging library** developed to improve the debugging process in **C++** projects by providing simple and efficient ways to log messages to the console with different log levels (info, warning, error, etc.).
 
-# Game Projects
-https://mondeegames.itch.io/ 
+- **Key Features:**
+  -   Supports multiple log levels: **Info**, **Warning**, **Error**, **Critical**.
+	-   Includes customizable logging formats, including **date, time, color,** and **title**.
+	-   Easy integration into any **C++** project.
+
+---
+
+## Game Projects
+
+Visit: [MondeeGames on itch.io](https://mondeegames.itch.io/)
 
 ### Mixed Reality Math Escape Room
 
+The goal of this project was to create a **Serious Game**, which was achieved by creating a **Mixed Reality escape room** where players solve math puzzles to advance and escape the room.
+
+- **Key Features:**
+  - Made with **Unity**
+  - Compatible with **Meta Quest 2** and **Meta Quest 3**
+  - Focuses on primary and lower high school math concepts
+  - Engaging puzzles that challenge various age groups
 
 ### The Hollow (Game Jam)
+
+This is a **horror game** made for the **Brackeys Game Jam 2025.1**, where the theme was **"Nothing Can Go Wrong"**. The aim was to create an immersive, atmospheric experience in a short development time.
+
+- **Key Features:**
+  - Created with **Unity**
+  - Available publicly on [itch.io](https://mondeegames.itch.io/the-hollow)
+  - A Fully Functional AI Agent built with a Behaviour Tree
+  - All code written from scratch
+  - Some graphics assets sourced
+
