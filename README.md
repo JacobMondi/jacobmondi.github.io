@@ -2,8 +2,6 @@
 
 `Bachelor of Information Technology (Games Technology & Computer Science) | Murdoch University`
 
----
-
 ## Projects
 
 ### Simulation Engine
@@ -39,8 +37,6 @@ SimplyLog is a **lightweight logging library** developed to improve the debuggin
   -   Supports multiple log levels: **Info**, **Warning**, **Error**, **Critical**.
 	-   Includes customizable logging formats, including **date, time, color,** and **title**.
 	-   Easy integration into any **C++** project.
-
----
 
 ## Game Projects
 
