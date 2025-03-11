@@ -2,7 +2,7 @@
 
 ## Education
 
-`Bachelor of Information Technology (Games Technology & Computer Science) | Murdoch University`
+Bachelor of Information Technology (Games Technology & Computer Science) | Murdoch University
 
 ## Projects
 
