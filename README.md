@@ -69,7 +69,7 @@ This is a **Puzzle Platformer game** made for the **GMTK Jam 2025**, where the t
   - All code written from scratch
   - Some graphics assets sourced
 
-  <iframe frameborder="0" src="https://itch.io/embed/3782461?bg_color=00b0b0&amp;fg_color=000000&amp;link_color=ffffff&amp;border_color=21a1a1" width="552" height="167"><a href="https://mondeegames.itch.io/spooly-snip">Spooly &amp; Snip by Mondee</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/3782461?bg_color=00b0b0&amp;fg_color=000000&amp;link_color=ffffff&amp;border_color=21a1a1" width="552" height="167"><a href="https://mondeegames.itch.io/spooly-snip">Spooly &amp; Snip by Mondee</a></iframe>
 
 ### The Hollow
 
@@ -81,5 +81,5 @@ This is a **horror game** made for the **Brackeys Game Jam 2025.1**, where the t
   - All code written from scratch
   - Some graphics assets sourced
 
-	<iframe frameborder="0" src="https://itch.io/embed/3349155?bg_color=eacf9a&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=9e5536" width="552" height="167"><a href="https://mondeegames.itch.io/the-hollow">The Hollow by Mondee</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/3349155?bg_color=eacf9a&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=9e5536" width="552" height="167"><a href="https://mondeegames.itch.io/the-hollow">The Hollow by Mondee</a></iframe>
 
