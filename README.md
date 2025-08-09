@@ -56,7 +56,22 @@ The goal of this project was to create a **Serious Game**, which was achieved by
   - Focuses on primary and lower high school math concepts
   - Engaging puzzles that challenge various age groups
 
-### The Hollow (Game Jam)
+### Game Jam Projects
+
+Spooly & Snip
+
+This is a **Puzzle Platformer game** made for the **GMTK Jam 2025**, where the theme was **"Loop"**. The aim was to create a game with a simple mechanic that could be explored in depth through level design and puzzle design.
+
+- **Key Features:**
+  - Created with **Unity**
+  - A physics-based system with realistic rope physics
+  - Puzzle solving through physics interactions
+  - All code written from scratch
+  - Some graphics assets sourced
+
+  <iframe frameborder="0" src="https://itch.io/embed/3782461?bg_color=00b0b0&amp;fg_color=000000&amp;link_color=ffffff&amp;border_color=21a1a1" width="552" height="167"><a href="https://mondeegames.itch.io/spooly-snip">Spooly &amp; Snip by Mondee</a></iframe>
+
+The Hollow
 
 This is a **horror game** made for the **Brackeys Game Jam 2025.1**, where the theme was **"Nothing Can Go Wrong"**. The aim was to create an immersive, atmospheric experience in a short development time.
 
