@@ -6,7 +6,7 @@ Bachelor of Information Technology (Games Technology & Computer Science) | Murdo
 
 ## Projects
 
-### Simulation Engine
+### Cobalt Simulation Engine
 
 This project aimed to build a **real-time physics engine** that simulates realistic object interactions and NPC behaviors. The goal was to create an interactive and immersive simulation environment for educational or gaming purposes.
 
@@ -21,7 +21,7 @@ This project aimed to build a **real-time physics engine** that simulates realis
 
 ### Mixed Reality Mathematics Education Tool
 
-This project was designed to bring a more interactive and immersive experience to mathematics education through **Mixed Reality (MR)**. It aimed to help students visualize and engage with math concepts in a three-dimensional environment, enhancing understanding and engagement.
+This project was designed to bring a more interactive and immersive experience to mathematics education through **Mixed Reality (MR)**. It aimed to help students visualize and engage with math concepts in a three-dimensional environment, enhancing understanding and engagement. The application features a custom-built tool that allows for the creation of MR experiences without needing any knowledge of Unity or programming.
 
 [View Demonstration](https://youtu.be/WbLa0Y6N3P8)
 
@@ -58,12 +58,27 @@ The goal of this project was to create a **Serious Game**, which was achieved by
 
 ## Game Jam Projects
 
+### Border Of The Stars
+
+This is a **2D Puzzle Game** inspired by Papers Please and made for the **Brackeys Jams 2025.2** where the theme was **Risk It For A Biscuit**. My aim was to create a sense of stress by forcing the player to take risks in order to proceed, however those risks may hurt them in the future.
+
+- **Key Features:**
+  - Created with **Unity**
+  - Solo Developer
+  - An in depth randomiser system that changes the gameplay each time
+  - Simple mechanics so the puzzle aspects can thrive
+  - All code written from scratch
+  - All art made from scratch
+
+<iframe frameborder="0" src="https://itch.io/embed/3852064?bg_color=254100&amp;fg_color=a3f200&amp;link_color=ffffff&amp;border_color=686527" width="552" height="167"><a href="https://mondeegames.itch.io/border-of-the-stars">Border Of The Stars by Mondee</a></iframe>
+
 ### Spooly & Snip
 
 This is a **Puzzle Platformer game** made for the **GMTK Jam 2025**, where the theme was **"Loop"**. The aim was to create a game with a simple mechanic that could be explored in depth through level design and puzzle design.
 
 - **Key Features:**
   - Created with **Unity**
+  - Solo Developer
   - A physics-based system with realistic rope physics
   - Puzzle solving through physics interactions
   - All code written from scratch
@@ -77,6 +92,7 @@ This is a **horror game** made for the **Brackeys Game Jam 2025.1**, where the t
 
 - **Key Features:**
   - Created with **Unity**
+  - Solo Developer
   - A Fully Functional AI Agent built with a Behaviour Tree
   - All code written from scratch
   - Some graphics assets sourced
