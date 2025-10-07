@@ -65,6 +65,7 @@ This is a **2D Puzzle Game** inspired by Papers Please and made for the **Bracke
 - **Key Features:**
   - Created with **Unity**
   - Solo Developer
+  - Playable in Browser
   - An in depth randomiser system that changes the gameplay each time
   - Simple mechanics so the puzzle aspects can thrive
   - All code written from scratch
