@@ -60,6 +60,8 @@ The goal of this project was to create a **Serious Game**, which was achieved by
 
 ### Border Of The Stars
 
+[View Gameplay](https://youtu.be/gNwXhaZxdL0)
+
 This is a **2D Puzzle Game** inspired by Papers Please and made for the **Brackeys Jams 2025.2** where the theme was **Risk It For A Biscuit**. My aim was to create a sense of stress by forcing the player to take risks in order to proceed, however those risks may hurt them in the future.
 
 - **Key Features:**
@@ -75,6 +77,8 @@ This is a **2D Puzzle Game** inspired by Papers Please and made for the **Bracke
 
 ### Spooly & Snip
 
+[View Gameplay](https://youtu.be/YtS5enLpR4E)
+
 This is a **Puzzle Platformer game** made for the **GMTK Jam 2025**, where the theme was **"Loop"**. The aim was to create a game with a simple mechanic that could be explored in depth through level design and puzzle design.
 
 - **Key Features:**
@@ -88,6 +92,8 @@ This is a **Puzzle Platformer game** made for the **GMTK Jam 2025**, where the t
 <iframe frameborder="0" src="https://itch.io/embed/3782461?bg_color=00b0b0&amp;fg_color=000000&amp;link_color=ffffff&amp;border_color=21a1a1" width="552" height="167"><a href="https://mondeegames.itch.io/spooly-snip">Spooly &amp; Snip by Mondee</a></iframe>
 
 ### The Hollow
+
+[View Gameplay](https://youtu.be/12Phfd3M0FE)
 
 This is a **horror game** made for the **Brackeys Game Jam 2025.1**, where the theme was **"Nothing Can Go Wrong"**. The aim was to create an immersive, atmospheric experience in a short development time.
 
