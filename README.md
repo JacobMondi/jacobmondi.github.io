@@ -58,6 +58,20 @@ The goal of this project was to create a **Serious Game**, which was achieved by
 
 ## Game Jam Projects
 
+### Alone In The Cabin
+
+This is a **2D/3D Horror Game** made for the **Scream Jam 2025** where there was no theme. My aim was to create a tense environment and put the player on edge in a 2D game, then subvert expectations on the player by switching to 3D at the height of the games tension
+
+- **Key Features:**
+  - Created with **Unity**
+  - Solo Developer
+  - Playable in Browser
+  - Project setup that allows for 2D and 3D scenes
+  - Focus on creating tension through sound
+  - All code written from scratch
+
+ <iframe frameborder="0" src="https://itch.io/embed/3964049?bg_color=000000&amp;fg_color=bf0100&amp;link_color=fa5c5c&amp;border_color=333333" width="552" height="167"><a href="https://mondeegames.itch.io/alone-in-the-cabin">Alone In The Cabin - Prologue by Mondee</a></iframe>
+
 ### Border Of The Stars
 
 [View Gameplay](https://youtu.be/gNwXhaZxdL0)
